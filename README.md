@@ -31,3 +31,27 @@
 <img src="https://img.shields.io/badge/Kakinada-India-22D3EE?style=for-the-badge"/>
 
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats-nstw.vercel.app/api?username=HemantSai2006&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img
+width="49%"
+src="https://streak-stats.demolab.com?user=HemantSai2006&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats-nstw.vercel.app/api/top-langs/?username=HemantSai2006&layout=compact&theme=tokyonight"/>
+
+</p>
+

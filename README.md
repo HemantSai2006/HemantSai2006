@@ -10,6 +10,15 @@
 - 🚀 Improving problem-solving through C++ and LeetCode
 - 📍 Kakinada, Andhra Pradesh, India
 
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,express,mongodb,git,vscode" />
+
+</p>
+
   
 <picture>
   <source media="(prefers-color-scheme: dark)"

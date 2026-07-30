@@ -1,4 +1,4 @@
-# Hi, I'm Hemanth Sai 👋
+# Hi, I'm Hemanth Sai Birada👋
 
 
 ## 👨‍💻 About Me
@@ -19,25 +19,22 @@
 
 </p>
 
-
-## 📫 Connect With Me
-
-- 📧 **Email:** [hemanthbirada2006@gmail.com](mailto:hemanthbirada2006@gmail.com)
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hemanth-birada-4ba158333/
-
-- 📍 **Location:** Kakinada, Andhra Pradesh, India
-
   
+## 🐍 Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 <p align="center">
@@ -85,4 +82,11 @@ src="https://github-readme-stats-nstw.vercel.app/api/top-langs/?username=HemantS
 
 </p>
 
+## 📫 Connect With Me
+
+- 📧 **Email:** [hemanthbirada2006@gmail.com](mailto:hemanthbirada2006@gmail.com)
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hemanth-birada-4ba158333/
+
+- 📍 **Location:** Kakinada, Andhra Pradesh, India
 

@@ -19,6 +19,15 @@
 
 </p>
 
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [hemanthbirada2006@gmail.com](mailto:hemanthbirada2006@gmail.com)
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hemanth-birada-4ba158333/
+
+- 📍 **Location:** Kakinada, Andhra Pradesh, India
+
   
 <picture>
   <source media="(prefers-color-scheme: dark)"

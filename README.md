@@ -1,5 +1,16 @@
 # Hi, I'm Hemanth Sai 👋
 
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student
+- 🤖 Aspiring Machine Learning Engineer
+- 🌱 Currently learning Machine Learning, Deep Learning, Data Structures & Algorithms
+- 💻 Building Full Stack projects using Node.js, Express.js and MongoDB
+- 🚀 Improving problem-solving through C++ and LeetCode
+- 📍 Kakinada, Andhra Pradesh, India
+
+  
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/HemantSai2006/HemantSai2006/output/github-contribution-grid-snake-dark.svg">
@@ -54,4 +65,5 @@ width="49%"
 src="https://github-readme-stats-nstw.vercel.app/api/top-langs/?username=HemantSai2006&layout=compact&theme=tokyonight"/>
 
 </p>
+
 

@@ -66,7 +66,7 @@
 
 <img
 width="49%"
-src="https://github-readme-stats-nstw.vercel.app/api?username=HemantSai2006&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-nstw.vercel.app/api?username=HemantSai2006&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
 <img
 width="49%"

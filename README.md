@@ -156,21 +156,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="mailto:hemanthbirada2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-10B981?style=for-the-badge"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Kakinada-India-22D3EE?style=for-the-badge"/>
-
 </p>
+
 
 
 ## 📊 GitHub Stats
@@ -178,11 +169,11 @@
 <p align="center">
 
 <img
-width="49%"
+width="70%"
 src="https://github-readme-stats-nstw.vercel.app/api?username=HemantSai2006&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
 <img
-width="49%"
+width="70%"
 src="https://streak-stats.demolab.com?user=HemantSai2006&theme=tokyonight"/>
 
 </p>
@@ -190,7 +181,7 @@ src="https://streak-stats.demolab.com?user=HemantSai2006&theme=tokyonight"/>
 <p align="center">
 
 <img
-width="49%"
+width="70%"
 src="https://github-readme-stats-nstw.vercel.app/api/top-langs/?username=HemantSai2006&layout=compact&theme=tokyonight"/>
 
 </p>
